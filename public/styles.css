@@ -1,0 +1,27 @@
+/*тут мы определяем стили для нашего сайта barber_2.rb*/
+/*body - это тег и в скобках {}- это (свойства) настройки именно для этого тега*/ 
+
+/*body {
+font-family: Arial; /*font-family - это семейство шрифтов 
+} */
+
+  h1
+	{ 
+		font-family: Arial;
+		background-color: yellow;
+		color: brown; 
+	}
+
+	.something { /* применяется к любому элементу с помощью отрибута класс  */
+		         /*в indecs.erb добавили класс*/
+		color: green;
+	}
+
+	#barber { 
+
+		color: blue;
+	}
+	nm
+
+
+
